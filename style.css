@@ -39,6 +39,10 @@ ul {
     border-radius: 16px;
 }
 
+.image-forrest {
+    object-position: top;
+}
+
 .image-market {
     object-position: bottom;
 }
