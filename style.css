@@ -5,6 +5,7 @@ body {
     background-color: #f1f1f1;
     color: #424242;
     text-align: center;
+    padding: 12px 32px;
 }
 
 p {
@@ -31,10 +32,10 @@ ul {
 }
 
 .image {
-    height: 100%;
     width: 100%;
     max-height: 400px;
     max-width: 1080px;
+    aspect-ratio: 16/9;
     object-fit: cover;
     object-position: center;
     border-radius: 16px;
@@ -54,4 +55,10 @@ ul {
 
 .image-castle {
     object-position: top;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        padding: 8px;
+    }
 }
