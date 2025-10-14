@@ -16,19 +16,30 @@ p {
 }
 
 a {
-    color: #cf1e1e;
+    color: #f1f1f1;
+    background-color: #cf1e1e;
     text-decoration: none;
     font-weight: 800;
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 2px;
+    border-color: #424242;
+    padding: 4px 8px;
 }
 
 a:hover {
-    color: #a10000;
-    text-decoration: underline;
+    color: #cf1e1e;
+    background-color: #f1f1f1;
 }
 
 ul {
     list-style-type: none;
     padding: 0;
+}
+
+li {
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
 
 .image {
