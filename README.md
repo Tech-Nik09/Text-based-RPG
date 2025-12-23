@@ -4,7 +4,7 @@
 > I improved it step by step and after futher developement, here it is.
 
 
-## Play the game: [click here](https://tech-nik09.github.io/Text-based-RPG/)
+## Play the game: [click here](https://text-based-rpg.pages.dev/)
 >  \* Please notice: I am from Germany. So, there is just a German version of the game. If you are interested in the code, feel free to have a look at the HTML and CSS files. Everything there (classes, filenames, etc.) is in English of course.
 
 ### Also feel free to check out the Developer Akademie!
